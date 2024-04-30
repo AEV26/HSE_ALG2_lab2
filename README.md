@@ -1,6 +1,6 @@
-_Выполнил: Асташонок Егор_
-_Группа 22ПИ-2_
-Логин в контесте: evastashonok@edu.hse.ru
+##### Выполнил: Асташонок Егор
+##### Группа 22ПИ-2
+##### Логин в контесте: evastashonok@edu.hse.ru
 
 ### Цель лабораторной работы
 
@@ -336,29 +336,30 @@ for (int i = 0; i < m; i++)
 
 ### Измерения
 
-![[Data preparation.png|500]]
-
-![[Data search.png|500]]
-
-![[Total time.png|500]]
+![Data preparation.png|500](https://github.com/AEV26/HSE_ALG2_lab2/blob/main/table/Data%20preparation.png)
+![Data search.png|500](https://github.com/AEV26/HSE_ALG2_lab2/blob/main/table/Data%20search.png)
+![Total time.png|500](https://github.com/AEV26/HSE_ALG2_lab2/blob/main/table/Total%20time.png)
 
 ### Графики
 
 #### Подготовка данных
 
-![[Pasted image 20240430142350.png]]
-![[Pasted image 20240430142405.png]]
-![[Pasted image 20240430142418.png]]
+![Data preparation1.png|500](https://github.com/AEV26/HSE_ALG2_lab2/blob/main/graphs/Data%20preparation%201.png)
+![Data preparation2.png|500](https://github.com/AEV26/HSE_ALG2_lab2/blob/main/graphs/Data%20preparation%202.png)
+![Data preparation3.png|500](https://github.com/AEV26/HSE_ALG2_lab2/blob/main/graphs/Data%20preparation%203.png)
+
 #### Поиск данных
 
-![[Pasted image 20240430142446.png]]
-![[Pasted image 20240430142457.png]]
-![[Pasted image 20240430142508.png]]
+![Data search1.png|500](https://github.com/AEV26/HSE_ALG2_lab2/blob/main/graphs/Data%20search%201.png)
+![Data search2.png|500](https://github.com/AEV26/HSE_ALG2_lab2/blob/main/graphs/Data%20search%202.png)
+![Data search3.png|500](https://github.com/AEV26/HSE_ALG2_lab2/blob/main/graphs/Data%20search%203.png)
+
 #### Общее время
 
-![[Pasted image 20240430142549.png]]
-![[Pasted image 20240430142602.png]]
-![[Pasted image 20240430142612.png]]
+![Total time1.png|500](https://github.com/AEV26/HSE_ALG2_lab2/blob/main/graphs/Total%20time%201.png)
+![Total time2.png|500](https://github.com/AEV26/HSE_ALG2_lab2/blob/main/graphs/Total%20time%202.png)
+![Total time3.png|500](https://github.com/AEV26/HSE_ALG2_lab2/blob/main/graphs/Total%20time%203.png)
+
 ### Выводы
 
 В процессе работы над алгоритмами были выполнены 3 различных замера:
