@@ -342,9 +342,7 @@ for (int i = 0; i < m; i++)
 
 #### Подготовка данных
 
-![Data preparation1.png|500](https://github.com/AEV26/HSE_ALG2_lab2/blob/main/graphs/Data%20preparation%201.png)
-![Data preparation2.png|500](https://github.com/AEV26/HSE_ALG2_lab2/blob/main/graphs/Data%20preparation%202.png)
-![Data preparation3.png|500](https://github.com/AEV26/HSE_ALG2_lab2/blob/main/graphs/Data%20preparation%203.png)
+![Data preparation.png|500](https://github.com/AEV26/HSE_ALG2_lab2/blob/main/graph/total1.png)
 
 #### Поиск данных
 
