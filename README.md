@@ -346,15 +346,11 @@ for (int i = 0; i < m; i++)
 
 #### Поиск данных
 
-![Data search1.png|500](https://github.com/AEV26/HSE_ALG2_lab2/blob/main/graphs/Data%20search%201.png)
-![Data search2.png|500](https://github.com/AEV26/HSE_ALG2_lab2/blob/main/graphs/Data%20search%202.png)
-![Data search3.png|500](https://github.com/AEV26/HSE_ALG2_lab2/blob/main/graphs/Data%20search%203.png)
+![Data search.png|500](https://github.com/AEV26/HSE_ALG2_lab2/blob/main/graph/total2.png)
 
 #### Общее время
 
-![Total time1.png|500](https://github.com/AEV26/HSE_ALG2_lab2/blob/main/graphs/Total%20time%201.png)
-![Total time2.png|500](https://github.com/AEV26/HSE_ALG2_lab2/blob/main/graphs/Total%20time%202.png)
-![Total time3.png|500](https://github.com/AEV26/HSE_ALG2_lab2/blob/main/graphs/Total%20time%203.png)
+![Total time.png|500](https://github.com/AEV26/HSE_ALG2_lab2/blob/main/graph/total3.png)
 
 ### Выводы
 
